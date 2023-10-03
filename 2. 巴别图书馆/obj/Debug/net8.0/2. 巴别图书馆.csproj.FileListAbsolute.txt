@@ -1,0 +1,15 @@
+D:\tech-team-entry\2. 巴别图书馆\bin\Debug\net8.0\2. 巴别图书馆.exe
+D:\tech-team-entry\2. 巴别图书馆\bin\Debug\net8.0\2. 巴别图书馆.deps.json
+D:\tech-team-entry\2. 巴别图书馆\bin\Debug\net8.0\2. 巴别图书馆.runtimeconfig.json
+D:\tech-team-entry\2. 巴别图书馆\bin\Debug\net8.0\2. 巴别图书馆.dll
+D:\tech-team-entry\2. 巴别图书馆\bin\Debug\net8.0\2. 巴别图书馆.pdb
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.AssemblyInfoInputs.cache
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.AssemblyInfo.cs
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.csproj.CoreCompileInputs.cache
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.sourcelink.json
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.dll
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\refint\2. 巴别图书馆.dll
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.pdb
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\2. 巴别图书馆.genruntimeconfig.cache
+D:\tech-team-entry\2. 巴别图书馆\obj\Debug\net8.0\ref\2. 巴别图书馆.dll
